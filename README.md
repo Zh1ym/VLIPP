@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 </details>
 
-## Quick Start
+## Quick Start.
 ### Stage1: Coarse-Level Motion Planning
 If you have an OpenAI API key, you can put the API key in scripts/inference/run_stage1.sh or set OPENAI_API_KEY environment variable. Then you can use OpenAI's API for planning a physically plausible motion trajectory, with GPT-4o as an example:
 ```
